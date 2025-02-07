@@ -44,21 +44,8 @@ const ammar = {
 
 <div align="center">
   <h3>Want to know more?</h3>
-  <a href="/resume.pdf" download="Ammar_Resume.pdf" style="text-decoration: none;">
-    <div style="
-      display: inline-block;
-      padding: 12px 28px;
-      background: linear-gradient(135deg, #FF4B2B 0%, #FF416C 100%);
-      border-radius: 6px;
-      box-shadow: 0 4px 15px rgba(255, 75, 43, 0.35);
-      color: white;
-      font-weight: 600;
-      font-size: 16px;
-    ">
-      <span style="margin-right: 8px;">📄</span>
-		Download my Resume
-    </div>
-  </a>
+  
+[![Download Resume](https://img.shields.io/badge/Download_Resume-FF416C?style=for-the-badge&logo=files&logoColor=white)](/resume.pdf)
 </div>
 
 ## 🛠️ Tech Stack & Tools
@@ -114,9 +101,8 @@ const ammar = {
 </div>
 
 ## 🏆 Achievements
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ammar-codeable&theme=radical&row=1&column=6&margin-w=4&no-frame=true" alt="achievements"/>
+  <img src="https://github-trophies.vercel.app/?username=ammar-codeable&theme=radical&row=1&margin-w=15&margin-h=15&no-frame=true" alt="achievements"/>
 </div>
 
 ## 📊 GitHub Overview
