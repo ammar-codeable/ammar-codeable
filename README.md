@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&fontColor=white" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontColor=white" />
 </div>
 
 <div align="center">
@@ -102,12 +102,11 @@ const ammar = {
 
 </div>
 
-## 🏆 Achievements
+## 📊 GitHub Overview
+
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=ammar-codeable&theme=radical&row=1&margin-w=15&margin-h=15&no-frame=true" alt="achievements"/>
 </div>
-
-## 📊 GitHub Overview
 
 <div align="center">
 
