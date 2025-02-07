@@ -45,7 +45,9 @@ const ammar = {
 <div align="center">
   <h3>Want to know more?</h3>
   
-[![Download Resume](https://img.shields.io/badge/Download_Resume-FF416C?style=for-the-badge&logo=files&logoColor=white)](/resume.pdf)
+<a href="/resume.pdf" download>
+  <img src="https://img.shields.io/badge/Download_Resume-FF416C?style=for-the-badge&logo=files&logoColor=white" alt="Download Resume" />
+</a>
 </div>
 
 ## 🛠️ Tech Stack & Tools
