@@ -57,18 +57,12 @@ const ammar = {
 </div>
 
 <div align="center">
-
-|   <img width="450" src="https://github-readme-stats.vercel.app/api?username=ammar-codeable&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/>    |    <img width="510" src="https://github-readme-streak-stats.herokuapp.com/?user=ammar-codeable&theme=radical&hide_border=true&background=0D1117"/>     |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-codeable&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6"/> | <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ammar-codeable&theme=radical&utcOffset=5.5"/> |
-
-  <!-- Activity Graphs -->
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=ammar-codeable&theme=react-dark&hide_border=true"/>
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=ammar-codeable&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/> 
+  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-codeable&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="100">
-  <br>
   <img src="https://komarev.com/ghpvc/?username=ammar-codeable&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
+
 <div align="center">  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/></div>
