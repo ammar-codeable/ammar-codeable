@@ -8,15 +8,15 @@
 
 ```javascript
 const ammar = {
-	code: ["JavaScript", "TypeScript", "Python", "Java"],
+	code: ["JavaScript", "TypeScript", "Python", "Java", "Rust"],
 	askMeAbout: ["Web Dev", "Tech", "PC Building", "Gaming"],
 	technologies: {
 		frontEnd: {
 			js: ["React", "Next.js"],
-			ui: ["Tailwind", "shadcn/ui", "Mantine UI"],
+			ui: ["Tailwind", "shadcn/ui"],
 		},
 		backEnd: {
-			js: ["Node", "Express"],
+			js: ["Node", "Express", "Websocket"],
 		},
 		databases: ["MongoDB", "PostgreSQL"],
 		devOps: ["AWS", "Docker", "GitHub Actions"],
@@ -47,7 +47,7 @@ const ammar = {
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammar-codeable&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/>
 	  </td>
       <td>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-codeable&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-codeable&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count6"/>
 	  </td>
     </tr>
   </table>
