@@ -42,12 +42,14 @@ const ammar = {
 };
 ```
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammar-codeable&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/>
-    <div style="width: 1px; height: 170px; background: linear-gradient(to bottom, transparent, #7f3ace, transparent); margin: 0 10px;"></div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-codeable&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6"/>
-  </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammar-codeable&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-codeable&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6"/></td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <h3>Want to know more?</h3>
