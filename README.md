@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontColor=white" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontColor=white" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ammar,+a+Full+Stack+Dev" alt="Typing SVG" />
@@ -45,8 +43,12 @@ const ammar = {
 <div align="center">
   <table>
     <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammar-codeable&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-codeable&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6"/></td>
+      <td>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammar-codeable&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/>
+	  </td>
+      <td>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-codeable&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6"/>
+	  </td>
     </tr>
   </table>
 </div>
@@ -54,9 +56,9 @@ const ammar = {
 <div align="center">
   <h3>Want to know more?</h3>
   
-<a href="/resume.pdf" download>
-  <img src="https://img.shields.io/badge/Download_Resume-FF416C?style=for-the-badge&logo=files&logoColor=white" alt="Download Resume" />
-</a>
+  <a href="/resume.pdf" download>
+	<img src="https://img.shields.io/badge/Download_Resume-FF416C?style=for-the-badge&logo=files&logoColor=white" alt="Download Resume" />
+  </a>
 </div>
 
-<div align="center">  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&fontColor=white&section=footer" />
